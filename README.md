@@ -8,7 +8,7 @@ The purpose of this project is to compare the performances of various stocks ove
 
 When completing this analysis and refactoring the code, the script runs much faster with the updated version. From the un-refactored code, the run times were essentially 3.90 seconds for each year. With the refactored code, both years ran under 0.2 seconds. Stock performance changed drastically from 2017 going into 2018. In 2017, all but one stock had a positive return. Conversely, in 2018, there were only 2 stocks that returned a positive return (ENPH and RUN). This is very interesting because it shows how volitle the market can be with one year as a good year, and the next not. 
 
-<img src= "https://github.com/Ampickett/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true" width="450" height='450'> <img src= "https://github.com/Ampickett/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true" width="450" height='450'>
+<img src= "https://github.com/Ampickett/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true" width="350" height='350'> <img src= "https://github.com/Ampickett/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true" width="350" height='350'>
 
 ## Summary
 
